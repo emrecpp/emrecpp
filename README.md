@@ -21,8 +21,23 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,php,arduino&theme=light" /> <br>
-    <img src="https://skillicons.dev/icons?i=qt,dotnet,mysql,sqlite&theme=light" /> <br>
-    <img src="https://skillicons.dev/icons?i=git,aws,gcp,firebase,postman,visualstudio&theme=light" />
+    <a alt="Python" title="Python" href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=light" /></a>
+    <a alt="C" title="C" href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c&theme=light" /></a>
+    <a alt="C++" title="C++" href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://skillicons.dev/icons?i=cpp&theme=light" /></a>
+    <a alt="C#" title="C#" href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs&theme=light" /></a>
+    <a alt="PHP" title="PHP" href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php&theme=light" /></a>
+    <a alt="Arduino" title="Arduino" href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino&theme=light" /></a>
+    <br>    
+    <a alt="MySQL" title="MySQL" href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=light" /></a>
+    <a alt="SQLite" title="SQLite" href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite&theme=light" /></a>
+    <a alt="Qt" title="Qt" href="https://www.qt.io"><img src="https://skillicons.dev/icons?i=qt&theme=light" /></a>
+    <a alt=".NET" title=".NET" href="https://dotnet.microsoft.com"><img src="https://skillicons.dev/icons?i=dotnet&theme=light" /></a>
+    <br>
+    <a alt="Git" title="Git" href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=light" /></a>
+    <a alt="Amazon Web Services" title="Amazon Web Services" href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws&theme=light" /></a>
+    <a alt="Google Cloud" title="Google Cloud" href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp&theme=light" /></a>
+    <a alt="Firebase" title="Firebase" href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase&theme=light" /></a>
+    <a alt="Postman" title="Postman" href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman&theme=light" /></a>
+    <a alt="Visual Studio" title="Visual Studio" href="https://visualstudio.microsoft.com"><img src="https://skillicons.dev/icons?i=visualstudio&theme=light" /></a>    
   </a>
 </p>
