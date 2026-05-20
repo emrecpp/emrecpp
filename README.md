@@ -7,11 +7,13 @@
 [<img src="https://komarev.com/ghpvc/?username=emrecpp" height="22" />]()    
 
 
-* ❔ I was born in 2000 and I live in Istanbul, Turkey. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/150px-Flag_of_Turkey.svg.png" width="25"/>
-* :computer: I have been developing software since I was 15 years old. I started developing software as a hobby, and now I do it professionally with passion.
-* :blush: I enjoy developing server-based applications using APIs, and I typically focus on building this type of application.
-* :star: I have been working on an application for over 4 years that communicates between computers on a system, automatically updates applications on the system, and includes an online appointment system, and more.
-  
+* ❔ I was born in 2000 and I live in Istanbul, Turkey. <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" width="25"/>
+* 👨‍💻 I have been developing software since I was 15 years old. I started developing software as a hobby, and now I do it professionally with passion.
+* 🚀 I enjoy building scalable applications and solving real-world problems through software and automation.
+* 🌱 I'm always exploring new technologies and improving my software architecture skills.
+* 🛠️ I love turning ideas into real products with clean and maintainable code.
+
+
 
 
 <h2> :hammer: Programming Languages and Tools </h2>
